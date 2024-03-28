@@ -1,1 +1,42 @@
-
+let questions = [
+  {
+    question: "Wer hat HTML erfunden?",
+    answer_1: "Robbie Williams",
+    answer_2: "Lady Gaga",
+    answer_3: "Tim Berners-Lee",
+    answer_4: "Justin Bieber",
+    right_answer: 3,
+  },
+  {
+    question: "Wie definiert man in JavaScript eine Variable?",
+    answer_1: "let 100 = rate;",
+    answer_2: "100 = let rate;",
+    answer_3: "rate = 100;",
+    answer_4: "let rate = 100;",
+    right_answer: 4,
+  },
+  {
+    question: "Was bedeutet das HTML Tag &lt;a&gt;?",
+    answer_1: "Text Fett",
+    answer_2: "Container",
+    answer_3: "Ein Link",
+    answer_4: "Kursiv",
+    right_answer: 3,
+  },
+  {
+    question: "Wie beginnt man in einem HTML- Dokument?",
+    answer_1: "<HTML>",
+    answer_2: "<!DOCTYPE html>",
+    answer_3: "<HTML start>",
+    answer_4: "<!DOCTYPE html start>",
+    right_answer: 2,
+  },
+  {
+    question: "Was befindet sich im Tag <img src= ?",
+    answer_1: "Ein Text",
+    answer_2: "Eine Datei",
+    answer_3: "Ein Video",
+    answer_4: "Ein Bild",
+    right_answer: 4,
+  },
+];
