@@ -20,3 +20,19 @@ body {
 .quiz-card {
   width: 30rem;
 }
+.quiz-answer-card:hover {
+  cursor: pointer;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.bg-success, .bg-danger {
+  color: white !important;
+} 
+
+.d-none {
+  display: none !important;
+}
+.endscreen {
+  display: flex;
+  flex-direction: column;
+}
